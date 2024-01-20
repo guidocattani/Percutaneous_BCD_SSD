@@ -38,10 +38,3 @@ Sixty percent of participants achieved optimal compensation for the head-shadow 
 ### Conclusions 
 According to an audibility model, percutaneous BCDs may not consistently provide optimal head-shadow effect compensation for SSD patients. Future investigations should concentrate on enhancing BCD fittings for this group, through specialized fitting algorithms and verification tools.
 
-Keywords:
-Audibility 
-Bone Conduction Device 
-Head-shadow effect
-Hearing Aids
-Hearing Loss, Unilateral
-Single-sided Deafness
