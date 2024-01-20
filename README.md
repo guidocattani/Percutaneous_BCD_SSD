@@ -41,5 +41,5 @@ According to an audibility model, percutaneous BCDs may not consistently provide
 
 
 ## About this release 
-The code is provided in 2 different flavors: .ipynb and .html. If you want just to consult the code, it is best to use the html format. The html files provide also results, tables, and graphs. If you want to run the code, you have to use the ipynb files in the jupyter notebook (https://jupyter.org). Beside python and R, you will need different libraries. See the list "Code_packages_version". For this purpose, you may consider the installation of the anaconda platform (https://www.anaconda.com). To get the code working properly, you have to set the input and output file paths according to your operating system and map tree. 
+The code is provided in 2 different flavors: .ipynb and .html. If you want just to consult the code, it is best to use the html format. The html files provide also results, tables, and graphs. If you want to run the code, you have to use the ipynb files in the jupyter notebook (https://jupyter.org). Beside python and R, you will need different libraries. See the folder "Packages_py_version". For this purpose, you may consider the installation of the anaconda platform (https://www.anaconda.com). To get the code working properly, you have to set the input and output file paths according to your operating system and map tree. 
 
