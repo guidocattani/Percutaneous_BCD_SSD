@@ -29,9 +29,9 @@ E-mail: 	A.L.Smit-9@umcutrecht.nl
 ## Abstract
 ### Objective 
 To assess the ability of a percutaneous Bone Conduction Device (BCD) to optimally compensate for the head-shadow effect in patients with Single-Sided Deafness (SSD).
-Design
+### Design
 A retrospective analysis was performed using a database comprising patient measurements, fitting parameters, and acoustic properties of BCDs. The analysis compared sensation levels between bone-conduction (BC) and air-conduction (AC) sound paths in three spatial conditions with speech in quiet. Additionally, the Speech Intelligibility Index was employed to compute phoneme-scores in both quiet and noisy environments. Modelled data were compared with measured speech-in-noise data.
-###Study sample 
+### Study sample 
 Twenty SSD adults using a percutaneous BCD.
 ### Results 
 Sixty percent of participants achieved optimal compensation for the head-shadow effect with the signal presented at the BCD side, and twenty percent with the signal in front. Phoneme-scores in quiet conditions showed no improvement over the unaided state. Noise conditions revealed mixed results, with slight to moderate improvement or slight worsening, depending on the specific scenario. The model validation was unsuccessful, potentially due to the speech-in-noise test used and model design. 
