@@ -1,10 +1,10 @@
 # An audibility based approach to model the head-shadow effect and the speech intelligibility in quiet and noise with a Percutaneous Bone Conduction Device in Single-sided Deaf Subjects  
 
 ## Author information:
-Guido Cattani 1, Bsc., M.SEN			g.cattani@kentalis.nl
-Anne W. Wendrich 1,2, MD			    a.w.wendrich-2@umcutrecht.nl
-Koenraad S. Rhebergen 1,2, PhD			k.s.rhebergen@umcutrecht.nl
-Adriana L. Smit 1,2,  MD, PhD			a.l.smit-9@umcutrecht.nl
+Guido Cattani 1, Bsc., M.SEN			g.cattani@kentalis.nl, 
+Anne W. Wendrich 1,2, MD			    a.w.wendrich-2@umcutrecht.nl, 
+Koenraad S. Rhebergen 1,2, PhD			k.s.rhebergen@umcutrecht.nl, 
+Adriana L. Smit 1,2,  MD, PhD			a.l.smit-9@umcutrecht.nl, 
 
 ### Affiliation:
 1. Department of Otorhinolaryngology, Head and Neck Surgery, University Medical Center Utrecht, Utrecht, The Netherlands
@@ -16,13 +16,13 @@ Koenraad S. Rhebergen 			    https://orcid.org/0000-0002-4389-1267
 Adriana L. Smit 					https://orcid.org/0000-0001-9126-9969 
 
 ### Correspondent Author: 
-Adriana L. Smit
-Department of Otorhinolaryngology and Head & Neck Surgery
-University Medical Center Utrecht
-House Postal Number G05.129
-PO BOX 85500, 3508 GA
-Utrecht, The Netherlands
-Tel: +31 88 75 56644
+Adriana L. Smit,
+Department of Otorhinolaryngology and Head & Neck Surgery,
+University Medical Center Utrecht,
+House Postal Number G05.129,
+PO BOX 85500, 3508 GA,
+Utrecht, The Netherlands,
+Tel: +31 88 75 56644,
 E-mail: 	A.L.Smit-9@umcutrecht.nl
 
 
