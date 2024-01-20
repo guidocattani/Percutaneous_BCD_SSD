@@ -12,9 +12,9 @@ Adriana L. Smit 1,2,  MD, PhD			a.l.smit-9@umcutrecht.nl,
 2. Brain Center Rudolf Magnus, University Medical Center Utrecht, Utrecht, The Netherlands 
 
 ### Author note:
-New affiliation Guido Cattani: Royal Dutch Kentalis – Kentalis Academy, Sint Michielsgestel, The Netherlands
-Koenraad S. Rhebergen 			    https://orcid.org/0000-0002-4389-1267
-Adriana L. Smit 					https://orcid.org/0000-0001-9126-9969 
+New affiliation Guido Cattani: Royal Dutch Kentalis – Kentalis Academy, Sint Michielsgestel, The Netherlands; 
+Koenraad S. Rhebergen 			    https://orcid.org/0000-0002-4389-1267 ; 
+Adriana L. Smit 					https://orcid.org/0000-0001-9126-9969  ;
 
 ### Correspondent Author: 
 Adriana L. Smit,
